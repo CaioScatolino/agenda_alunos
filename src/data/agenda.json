@@ -1,0 +1,38 @@
+[
+  {
+    "materia": "matematica",
+    "data": "2025-12-10",
+    "hora": "10:00",
+    "aluno": "Caio"
+  },
+  {
+    "materia": "portugues",
+    "data": "2025-12-10",
+    "hora": "10:00",
+    "aluno": "Caio"
+  },
+  {
+    "materia": "portugues",
+    "data": "2025-12-09",
+    "hora": "10:00",
+    "aluno": "Caio"
+  },
+  {
+    "materia": "portugues",
+    "data": "2025-12-08",
+    "hora": "10:00",
+    "aluno": "Caio"
+  },
+  {
+    "materia": "fisica",
+    "data": "2025-12-09",
+    "hora": "11:00",
+    "aluno": "Tevez"
+  },
+  {
+    "materia": "fisica",
+    "data": "2025-12-09",
+    "hora": "11:00",
+    "aluno": "Tevez"
+  }
+]

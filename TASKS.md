@@ -4,10 +4,11 @@ Este arquivo destina-se a acompanhar as tarefas futuras, melhorias e correções
 
 ## 🚀 Rotas GET
 - [X] Listar Agenda
+- [X] Listar Agenda por Data
 - [ ] Listar Aluno
 - [ ] Listar Matéria
 
 ## 🚀 Rotas POST
-- [ ] Inserir Agenda
+- [X] Inserir Agenda
 - [ ] Inserir Aluno
 - [ ] Inserir Matéria
