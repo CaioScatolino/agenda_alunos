@@ -2,14 +2,12 @@
 
 Este arquivo destina-se a acompanhar as tarefas futuras, melhorias e correções para o projeto.
 
-## 🚀 Novas Funcionalidades
-- [ ] ...
+## 🚀 Rotas GET
+- [X] Listar Agenda
+- [ ] Listar Aluno
+- [ ] Listar Matéria
 
-## 🛠️ Melhorias Técnicas / Refatoração
-- [ ] ...
-
-## 🐛 Bugs Conhecidos
-- [ ] ...
-
-## 📝 Documentação
-- [ ] ...
+## 🚀 Rotas POST
+- [ ] Inserir Agenda
+- [ ] Inserir Aluno
+- [ ] Inserir Matéria
